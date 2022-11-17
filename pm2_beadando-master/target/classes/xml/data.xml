@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <n>
+        <name>Tóth Árpád</name>
+        <id>0</id>
+        <deparment>TTK</deparment>
+        <gender>M</gender>
+    </n>
+    <n>
+        <name>Papp László</name>
+        <id>1</id>
+        <deparment>MIK</deparment>
+        <gender>M</gender>
+    </n>
+    <n>
+        <name>Kovács Kati</name>
+        <id>2</id>
+        <deparment>ETK</deparment>
+        <gender>F</gender>
+    </n>
+    <n>
+        <name>Gibsz Jakab</name>
+        <id>3</id>
+        <deparment>ÁOK</deparment>
+        <gender>M</gender>
+    </n>
+    <n>
+        <name>Gibbon József</name>
+        <id>4</id>
+        <deparment>TTK</deparment>
+        <gender>M</gender>
+    </n>
+    <n>
+        <name>Adolf Elek</name>
+        <id>5</id>
+        <deparment>BTK(sad)</deparment>
+        <gender>M</gender>
+    </n>
+</students>
